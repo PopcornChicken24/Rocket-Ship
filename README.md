@@ -22,4 +22,5 @@ This model can be printed:
 
 Choose the printing method that best matches your printer's capabilities and desired finish.
 <img width="1913" height="981" alt="image" src="https://github.com/user-attachments/assets/fe752f56-71a7-45dc-9e61-7cae66d43707" />
+<img width="3024" height="4032" alt="IMG_0921 (1)" src="https://github.com/user-attachments/assets/f9cf44e6-a56f-4b84-bbbe-806a23898deb" />
 
