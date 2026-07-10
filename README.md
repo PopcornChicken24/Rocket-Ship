@@ -21,3 +21,5 @@ This model can be printed:
 * In multiple colors for a more realistic representation of the SLS Block 1.
 
 Choose the printing method that best matches your printer's capabilities and desired finish.
+<img width="1913" height="981" alt="image" src="https://github.com/user-attachments/assets/fe752f56-71a7-45dc-9e61-7cae66d43707" />
+
